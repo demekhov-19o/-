@@ -1,0 +1,16 @@
+C:\Users\Админ\Desktop\ex001\ex001_hello console\bin\Debug\net6.0\ex001_hello console.exe
+C:\Users\Админ\Desktop\ex001\ex001_hello console\bin\Debug\net6.0\ex001_hello console.deps.json
+C:\Users\Админ\Desktop\ex001\ex001_hello console\bin\Debug\net6.0\ex001_hello console.runtimeconfig.json
+C:\Users\Админ\Desktop\ex001\ex001_hello console\bin\Debug\net6.0\ex001_hello console.runtimeconfig.dev.json
+C:\Users\Админ\Desktop\ex001\ex001_hello console\bin\Debug\net6.0\ex001_hello console.dll
+C:\Users\Админ\Desktop\ex001\ex001_hello console\bin\Debug\net6.0\ref\ex001_hello console.dll
+C:\Users\Админ\Desktop\ex001\ex001_hello console\bin\Debug\net6.0\ex001_hello console.pdb
+C:\Users\Админ\Desktop\ex001\ex001_hello console\obj\Debug\net6.0\ex001_hello console.csprojAssemblyReference.cache
+C:\Users\Админ\Desktop\ex001\ex001_hello console\obj\Debug\net6.0\ex001_hello console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Админ\Desktop\ex001\ex001_hello console\obj\Debug\net6.0\ex001_hello console.AssemblyInfoInputs.cache
+C:\Users\Админ\Desktop\ex001\ex001_hello console\obj\Debug\net6.0\ex001_hello console.AssemblyInfo.cs
+C:\Users\Админ\Desktop\ex001\ex001_hello console\obj\Debug\net6.0\ex001_hello console.csproj.CoreCompileInputs.cache
+C:\Users\Админ\Desktop\ex001\ex001_hello console\obj\Debug\net6.0\ex001_hello console.dll
+C:\Users\Админ\Desktop\ex001\ex001_hello console\obj\Debug\net6.0\ref\ex001_hello console.dll
+C:\Users\Админ\Desktop\ex001\ex001_hello console\obj\Debug\net6.0\ex001_hello console.pdb
+C:\Users\Админ\Desktop\ex001\ex001_hello console\obj\Debug\net6.0\ex001_hello console.genruntimeconfig.cache
